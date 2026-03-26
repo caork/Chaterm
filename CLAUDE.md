@@ -2,6 +2,13 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Fork Development Policy
+
+This is a private fork (caork/Chaterm). All development happens exclusively in this fork repo:
+- NEVER push to or create PRs against the upstream repository
+- All commits and branches stay within this fork (origin: https://github.com/caork/Chaterm.git)
+- When pushing code, always push to origin (this fork), never upstream
+
 ## Project Overview
 
 Chaterm is an Electron-based AI-driven terminal tool that provides intelligent command completion, multi-device management, AI Agent capabilities, and enterprise-grade security features.
